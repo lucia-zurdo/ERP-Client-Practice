@@ -2,8 +2,7 @@
  
 > React + TypeScript frontend for a business management (ERP) system. Consumes a REST API to manage clients, suppliers, articles, and purchase/sales invoicing. Secured with Auth0.
  
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/status-completed%20%7C%20open%20to%20changes-brightgreen)
 ![Version](https://img.shields.io/badge/version-0.0.1-green)
  
 ---
